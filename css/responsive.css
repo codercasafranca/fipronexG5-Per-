@@ -1,0 +1,1538 @@
+@media (max-width: 1700px){
+	.ui-caja-1920{
+		width: 99.99%;
+		max-width: 1200px;
+		overflow: none;
+	}
+
+	.ui-center-1140{
+		width: 99.99%;
+		overflow: none;
+	}
+
+    /*****************************
+     *  seccion02 - fipronex-g5  *
+	 *****************************/
+	.owl-carousel.fipronex-g5 .owl-nav .owl-prev {
+	    position: absolute;
+	    left: -100px;
+	}
+
+	.owl-carousel.fipronex-g5 .owl-nav .owl-next {
+	    position: absolute;
+	    right: -100px;
+	}
+
+	/*****************************
+     *    seccion03 - vectores   *
+	 *****************************/
+	.ui-box-vectores{
+		background-position: center center;
+	}
+
+	.ui-fondo-imagen-modal {
+	    width: 610px;
+	}
+
+	/******************************
+	 *        ventanas modal      *
+	 ******************************/
+	.ui-modal-caja {
+	  background-color: #fff;
+	  margin: auto;
+	  width: 99.99%;
+		max-width: 1400px;
+	  height: 950px;
+	  position: relative;
+	}
+
+	/*****************************
+     *  seccion08 - contactenos  *
+	 *****************************/
+	.ui-box-contactenos .ui-derecha {
+	    width: 63.33%;
+	    padding: 136px 0 20px 40px;
+	}
+
+	.ui-box-contactenos .ui-izquierda {
+	    width: 637px;
+	}
+
+}
+
+@media (max-width: 1685px){
+	.box-cloud {
+	    text-align: center!important;
+	}
+}
+
+@media (max-width: 1400px){
+	.ui-nav{
+		position: absolute;
+		display: none;
+	}
+
+	.ui-icon-responsive{
+		display: block;
+	}
+
+	.lista-menu{
+		background-color: rgba(255,255,255,.9);
+		z-index: 2;
+		position: relative;
+		display: none;
+	}
+
+	.ui-box-close-nav{
+		display: block;
+	}
+
+	.ui-nav li{
+		text-align: center;
+		width: 100%;
+	}
+
+	.ui-nav ul{
+		padding-left: 0px;
+		display: block;
+	}
+
+	.ui-nav li a{
+		padding: 14px;
+		color: rgba(0,0,0,.8);
+	}
+
+	.ui-social {
+	   margin-left: 0px;
+	}
+
+	.ui-btn-top{
+		display: block!important;
+	}
+
+	/*****************************
+     *  seccion02 - fipronex-g5  *
+	 *****************************/
+	.owl-carousel.fipronex-g5{
+		width: 88%;
+		margin: auto;
+	}
+	.owl-carousel.fipronex-g5 .owl-nav .owl-prev {
+	    position: absolute;
+	    left: -40px;
+	}
+
+	.owl-carousel.fipronex-g5 .owl-nav .owl-next {
+	    position: absolute;
+	    right: -40px;
+	}
+
+	.ui-h3-fipronex-g5.icono figure {
+	   display: none;
+	}
+
+	/*owl-carousel01*/
+
+	.ui-box-01-fipronex-g5 .ui-box.dos {
+	    text-align: center;
+	}
+
+	.ui-dato-fipronex-g5.uno,
+	.ui-dato-fipronex-g5.dos,
+	.ui-dato-fipronex-g5.tres {
+	    right: 0px;
+	}
+
+	.ui-dato-fipronex-g5.ui-uno,
+	.ui-dato-fipronex-g5.ui-dos,
+	.ui-dato-fipronex-g5.ui-tres {
+	    left: 0px;
+	}
+
+	/*****************************
+     *  seccion08 - contactenos  *
+	 *****************************/
+	.ui-box-contactenos .ui-derecha {
+	    width: 62.33%;
+	}
+}
+
+/* responsive modales vectores - ultimo */
+ @media (max-width:1350px){
+	.ui-box-modal{
+		display: flex;
+		display: -webkit-flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.ui-modal-caja{
+		padding: 10px;
+		border:8px solid #57008D;
+		max-width: 1000px;
+		height: 100vh;
+	}
+
+	.ui-modal-cuerpo-central{
+		min-height: 100vh;
+	}
+
+	.ui-modal{
+		height: auto;
+		width: 100%!important;
+	}
+
+	.bxslider .ui-modal{
+		min-height: auto;
+	}
+
+	.ui-contenido-derecha-modal-garrapata-03{
+		width: 100%;
+	}
+
+	.ui-fondo-imagen-modal{
+		display: none;
+	}
+
+	.ui-modal-cuerpo-central > .ui-izquierda{
+		float: none;
+		display: block;
+		width: 100%!important;
+		text-align: left;
+		padding-bottom: 15px;
+		border-bottom:1px solid rgba(0,0,0,0.1);
+		margin-bottom: 15px;
+	}
+
+	.ui-contenido-izquierda-modal {
+    width: auto;
+    display: block;
+	}
+
+	.ui-modal-cuerpo-central > .ui-derecha{
+    display: block;
+    width: 100%!important;
+    padding-left: 0px;
+	}
+
+	.bxslider{
+		width: 100%;
+		/* height: 400px; */
+		-webkit-transform: none;
+		-moz-transform: none;
+		-ms-transform: none;
+		-o-transform: none;
+		transform: none;
+	}
+
+	.ui-box-descargar-pdf{
+		margin-bottom: 10px;
+	}
+
+	.tab.modalGarrapata01 button{
+		display: inline-block;
+		padding-bottom: 3px;
+		border-bottom: 2px solid #fff;
+		margin-right: 3px;
+	}
+
+	.tab.modalGarrapata01 button.active-active{
+		border-bottom: 2px solid #57008D;
+	}
+
+	.tab.modalPulgas01 button{
+		display: inline-block;
+		padding-bottom: 3px;
+		border-bottom: 2px solid #fff;
+		margin-right: 3px;
+	}
+
+	.tab.modalPulgas01 button.active-active{
+		border-bottom: 2px solid #57008D;
+	}
+
+	.tab.modalMosquito01 button{
+		color: #000;
+		display: inline-block;
+		padding-bottom: 3px;
+		border-bottom: 2px solid #fff;
+		margin-right: 3px;
+	}
+
+	.tab.modalMosquito01 button.active-active{
+		border-bottom: 2px solid #57008D;
+	}
+
+	.ui-box-flebotomo-mosquito{
+		margin-bottom: 30px;
+	}
+
+	.ui-box-figure-flebotomo-01 img{
+		display: block;
+		width: 100%;
+	}
+
+	.ui-h2-modal-izquierda{
+		color: #000;
+	}
+
+	.ui-box-center-piojo > .ui-izquierda-piojo > .ui-box{
+		padding-left: 0px;
+	}
+
+	.ui-h2-modal-derecho{
+		font-size: 24px;
+		line-height: 27px;
+		margin-bottom: 20px;
+	}
+
+	.ui-h2-modal-derecho br{
+		display: none;
+	}
+
+	.ui-izquierda.modal-pulga01{
+		padding-top: 0px;
+	}
+
+	.ui-izquierda.modal-mosquito01{
+		padding-top: 0px;
+	}
+
+	.ui-izquierda.modal-garrapata01{
+		padding-top: 0px;
+	}
+
+	.ui-h2-modal-izquierda{
+		font-size: 22px;
+		margin-bottom: 15px;
+		padding-left: 0px;
+	}
+
+	.ui-lista-btn-modal-izquierdo{
+		padding-top: 0px;
+	}
+
+	.ui-h2-modal-izquierda br{
+		display: none;
+	}
+
+	.tab.modalGarrapata01 button{
+		font-size: 16px;
+	}
+
+	.ui-modal.modal-garrapata01{
+		padding-top: 0px;
+	}
+
+	.ui-modal.modal-garrapata02{
+		padding-top: 0px;
+	}
+
+	.ui-modal.modal-garrapata03{
+		padding-top: 0px;
+	}
+
+	.ui-modal-caja .bx-controls{
+		display: block;
+		background: #fff;
+	}
+
+	.bx-viewport{
+		position: relative;
+		height: auto!important;
+	}
+
+	.ui-info-derecha-modal{
+		padding-left: 0px;
+	}
+
+	.ui-modal.modal-garrapata01 > .ui-box{
+		max-width: 100%;
+	}
+
+	.ui-caja-morada{
+		width: auto;
+		min-height: auto;
+		padding: 20px;
+	}
+
+	.ui-imagen-garrapata-modal{
+		display: none;
+	}
+
+	.ui-caja-morada.pulga{
+		min-height: auto;
+	}
+
+	.ui-info-derecha-modal.pulga-uno{
+		margin-bottom: 20px;
+	}
+
+	.ui-modal.modal-pulga01{
+		padding-top: 0px;
+	}
+
+	.ui-modal.modal-pulga02{
+		padding-top: 0px;
+	}
+
+	.ui-modal.garrapatas-03.pulga.mq > .ui-derecha{
+		padding-top: 0px;
+	}
+
+	.ui-texto-informacion-garrapatas-03.pulga{
+		margin: 8px 0 17px;
+	}
+
+	.ui-box-signos-clinicos{
+		margin-top: 0px;
+		max-width: none;
+	}
+
+	.ui-modal.modal-pulga02 > .ui-box{
+		width: 100%;
+	}
+
+	.ui-contenido-derecha-modal.accion{
+		max-width: none!important;
+		width: 100%!important;
+	}
+
+	.ui-modal.modal-pulga03{
+		padding-top: 0px;
+	}
+
+	.ui-modal.pulga-uno > .ui-derecha {
+    padding-top: 0px;
+	}
+
+	.ui-modal > .ui-derecha.mq{
+		padding-top: 0px;
+	}
+
+	.ui-h2-modal-derecho.mq{
+		font-size: 24px;
+		line-height: 27px;
+	}
+
+	.ui-contenido-derecha-modal-garrapata-03.mq{
+		width: auto!important;
+		display: block;
+	}
+
+	.ui-texto-informacion-garrapatas-03{
+		margin-bottom: 30px;
+	}
+
+	.ui-box-texto-ciclo-mosquito{
+		margin-top: 15px;
+	}
+
+	.ui-box-texto-mosquito{
+		display: block;
+		max-width: none;
+		margin-bottom: 30px;
+	}
+
+	.ui-box-texto-ciclo-mosquito > .ui-derecha-mosquito{
+		float: none;
+		display: none;
+	}
+
+	.ui-box-texto-ciclo-mosquito > .ui-izquierda{
+		float: none;
+		display: block;
+	}
+
+	.ui-ciclo-figure-mosquito{
+		top:0px;
+	}
+
+	.ui-contenido-derecha-modal{
+		max-width: none;
+	}
+
+	.mosquito-modal-02{
+		display: none;
+	}
+
+	.ui-caja-morada.pulga.mosquito{
+		width: auto;
+		min-height: auto;
+	}
+
+	.ui-imagen-garrapata-modal.mq{
+		display: none;
+	}
+
+	.ui-box-center-piojo > .ui-izquierda-piojo{
+		float: none;
+		display: block;
+		width: 100%;
+		padding-left: 0px;
+		padding-top: 0px;
+		text-align: left;
+		padding-bottom: 15px;
+		border-bottom:1px solid rgba(0,0,0,0.1);
+		margin-bottom: 15px;
+	}
+
+	.ui-box-center-piojo > .ui-derecha-piojo{
+		float: none;
+		padding-top:0px;
+		padding-left: 0px;
+		display: block;
+		width: 100%;
+	}
+
+	.ui-h2-izquierda-piojo{
+		font-size: 22px;
+		margin-bottom: 15px;
+		line-height: 26px;
+		color: #000;
+	}
+
+	.ui-h2-izquierda-piojo br{
+		display: none;
+	}
+
+	.ui-h2-izquierda-piojo br br{
+		display: none;
+	}
+
+	.ui-box-image-piojo-flotante{
+		display: none;
+	}
+
+	.ui-box-caja-morada-piojo > .ui-box{
+		max-width: none;
+		min-height: auto;
+		padding: 15px;
+	}
+
+	.ui-h3-morada-piojo{
+		margin-bottom: 10px;
+	}
+
+	.texto-morado-pj{
+		margin-bottom: 15px;
+	}
+
+	.ui-modal-cuerpo-central{
+		display: none;
+	}
+
+	.ui-version-responsive-vector-modal{
+		display: block;
+	}
+}
+
+@media (max-width: 1139px){
+	.box-fondo-esferas-movimiento {
+	    display: none;
+	}
+}
+
+@media (max-width: 1060px){
+	/*****************************
+     *  seccion02 - fipronex-g5  *
+	 *****************************/
+	.ui-box-fipronex-g5{
+		padding: 60px 0 50px;
+		min-height: auto;
+	}
+
+	.ui-header-fipronex-g5{
+		margin-bottom: 0px;
+	}
+
+	.ui-box-01-fipronex-g5 .ui-box.uno{
+		padding-top: 30px;
+	}
+
+	.ui-dato-fipronex-g5.uno,
+	.ui-dato-fipronex-g5.dos{
+		margin-bottom: 30px;
+	}
+
+	.ui-dato-fipronex-g5.ui-uno,
+	.ui-dato-fipronex-g5.ui-dos{
+		margin-bottom: 30px;
+	}
+
+	.ui-dato-fipronex-g5.ui-tres{
+		margin-bottom: 0px;
+	}
+
+	.ui-box-image-01-fipronex-g5{
+		max-width:80px;
+	}
+
+	.ui-box-01-fipronex-g5 .ui-box.tres{
+		padding-top: 30px;
+	}
+
+	.ui-box-02-molecula-cero{
+		margin-top: 30px;
+	}
+
+	.ui-box-contenido-molecula-cero{
+		margin-bottom: 40px;
+	}
+
+	.ui-h3-drop-spray {
+		padding-left: 0px;
+  	text-align: center;
+  	margin-bottom: 5px;
+	}
+
+	.ui-box-image-molecula-cero{
+		max-width: 150px;
+	}
+
+	.ui-pie-molecula-cero .ui-izquierda{
+		padding-top: 20px;
+	}
+
+	/* slide 03 */
+	.ui-h2-fipronex-g5{
+		font-size: 33px;
+		line-height: 32px;
+	}
+
+	.ui-h2-fipronex-g5 i{
+		font-size: 14px;
+		top:-11px;
+	}
+
+	.ui-h2-fipronex-g5.ui-integral{
+		margin-bottom: 30px;
+	}
+
+	.ui-box-proteccion-item{
+		margin-bottom: 20px;
+	}
+
+	.owl-carousel.fipronex-g5 .owl-nav .owl-prev {
+	    position: absolute;
+	    left: -20px;
+	}
+
+	.owl-carousel.fipronex-g5 .owl-nav .owl-next {
+	    position: absolute;
+	    right: -20px;
+	}
+
+	/*****************************
+     *  seccion02 - fipronex-g5  *
+	 *****************************/
+	.ui-box-01-fipronex-g5 .ui-box {
+	    float: none;
+	    width: 100%;
+	    display: block;
+	}
+
+	/*owl-carousel02*/
+	.ui-h2-molecula-cero{
+		padding-left: 0px;
+	}
+
+	.ui-box-02-molecula-cero .ui-izquierda {
+	    float: none;
+	    display: block;
+	    text-align: left;
+	    width: 100%;
+	}
+
+	.ui-box-02-molecula-cero .ui-derecha {
+	    float: none;
+	    display: block;
+	    width: 100%;
+	    margin-top: 40px;
+	}
+
+	.ui-drop-spray{
+		margin-bottom: 40px;
+		max-width: 400px;
+		margin: auto;
+	}
+
+	.ui-drop-spray .ui-cuadro.uno {
+	    float: none;
+	    display: block;
+	    width: 100%;
+	    padding: 0 40px;
+	    margin-bottom: 40px;
+	}
+
+	.ui-drop-spray .ui-cuadro.dos {
+	    float: none;
+	    display: block;
+	    width: 100%;
+	    padding: 0 40px;
+	}
+
+	.ui-box-contenido-molecula-cero {
+	    text-align: center;
+	}
+
+	.ui-h2-molecula-cero figure {
+	    display: none;
+	}
+
+	.ui-lista-molecula-cero li i {
+		display: none;
+	}
+
+	.ui-pie-molecula-cero .ui-izquierda {
+	    float: none;
+	    display: block;
+	    margin-bottom: 40px;
+	}
+
+	.ui-pie-molecula-cero .ui-derecha {
+	    float: none;
+	    display: block;
+	    padding-right: 0px;
+	    text-align: center;
+	}
+
+	.ui-pie-p {
+	    max-width: 100%;
+	    font-size: 16px;
+	    text-align: center!important;
+	}
+
+	/*owl-carousel03*/
+	.ui-box-proteccion-integral {
+	    padding: 0px 0 0px 0;
+	    text-align: center;
+	    min-height: auto;
+	}
+
+	.ui-box-proteccion-integral .ui-izquierda {
+	    width: 100%;
+	    float: none;
+	    display: block;
+	}
+
+	.ui-box-proteccion-integral .ui-derecha {
+	    width: 100%;
+	    float: none;
+	    display: block;
+	    text-align: center;
+			padding-top: 10px;
+	}
+
+	.ui-texto-proteccion-01{
+		font-size: 24px;
+	}
+
+	.ui-box-image-proteccion-perro {
+	    max-width: 300px;
+	    display: inline-block;
+	}
+
+	/* slide 04 */
+	.ui-h2-fipronex-g5.beneficios{
+		margin-bottom: 30px;
+		font-size: 33px;
+	}
+
+	.ui-box-proteccion-item p {
+	    max-width: 100%;
+	    display: block;
+			font-size: 22px;
+	}
+
+	.ui-box-proteccion-imagenes.uno {
+	    display: inline-block;
+	    max-width: 371px;
+	}
+
+	.ui-box-proteccion-imagenes.dos, .ui-box-proteccion-imagenes.tres {
+	    display: inline-block;
+	    max-width: 248px;
+	}
+
+	/*owl-carousel04*/
+	.ui-col-beneficios {
+	    width: 100%;
+	    margin-bottom: 0px;
+	    float: none;
+	    display: block;
+	    text-align: center;
+	}
+
+	.ui-image-beneficio{
+		max-width: 30px;
+		margin-bottom: 0px;
+	}
+
+	.ui-box-item-beneficio {
+	  margin-bottom: 30px;
+	  max-width: 400px;
+	  display:block;
+	  font-size: 16px;
+	  min-height: auto;
+	}
+
+	.ui-col-beneficios > div:last-child{
+		margin-bottom: 30px;
+	}
+
+	/********************************
+	 *     seccion03 - vectores     *
+	 ********************************/
+	.ui-box-vectores{
+		padding-bottom: 60px;
+		padding-top: 60px;
+		min-height: auto;
+	}
+
+	.ui-h2-vector{
+		font-size: 33px;
+		line-height: 33px;
+		text-align: center;
+	}
+
+	.ui-h2-vector br{
+		display: none;
+	}
+
+	.ui-box-texto-vectores{
+		margin-bottom: 30px;
+	}
+
+	.ui-h2-vector i{
+		font-size: 16px;
+		left: -6px;
+		top:-12px;
+	}
+
+	.ui-image-vector {
+    display: inline-block;
+    max-width: 40px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+	}
+
+	.ui-box-vector{
+		width: 49.99%;
+		padding: 15px 10px 30px 10px;
+		height: 250px;
+	}
+
+	.ui-h3-vector{
+		font-size: 15px;
+		min-height: 80px;
+	}
+
+	/************************************
+     *  seccion04 - proteccionIntegral  *
+	 ************************************/
+	.ui-box-proteccion-integral.responsive{
+		padding: 60px 0 60px 0;
+	}
+
+	.ui-h2-integral {
+    font-size: 33px;
+    line-height: 33px;
+    margin-bottom: 25px;
+	}
+
+	.ui-izquierda.ui-integral-responsive{
+		padding-top: 15px;
+	}
+
+	.tab-integral{
+		display: inline-block;
+	}
+
+	.ui-box-image-perro-lesiones {
+    position: relative;
+    top:0px;
+	  width: 100%;
+	  left: 0px;
+	}
+
+	.ui-box-perro {
+	  padding: 3px;
+	  position: relative;
+	  max-width: 100%;
+	  height: auto;
+	}
+
+	.ui-box-image-item-integral{
+		margin-bottom: 20px;
+	}
+
+	.ui-box-pulgas{
+		margin-bottom: 0px;
+	}
+
+	.ui-h3-pulgas{
+		font-size: 30px;
+		margin-bottom: 10px;
+	}
+
+	.ui-box-image-perro-lesiones{
+		max-width: 180px;
+	}
+
+	.ui-box-image-item-integral{
+		margin:0 5px;
+	}
+
+	/************************************************
+   *      seccion05 - nuestras presentaciones     *
+	 ************************************************/
+	.ui-box-nuestras-presentaciones{
+		padding: 60px 0 60px 0;
+		min-height: auto;
+	}
+
+	.ui-h2-presentaciones{
+		font-size: 33px;
+		line-height: 38px;
+	}
+
+	.ui-header-presentaciones{
+		margin-bottom: 25px;
+	}
+
+	.ui-items-imagenes-drop-on{
+		margin-top: 30px;
+	}
+
+	.ui-items-imagenes-spray{
+		margin-top: 30px;
+	}
+
+	/****************************
+   *     seccion06 - faqs     *
+	 ****************************/
+	.ui-box-faqs{
+		padding: 60px 0 60px 0;
+		min-height: auto;
+	}
+
+	.ui-h2-faqs{
+		font-size: 33px;
+		line-height: 45px;
+	}
+
+	.ui-header-faqs{
+		margin-bottom: 20px;
+	}
+
+	/*****************************************
+   *     seccion07 - disctribuidores       *
+	 *****************************************/
+	.ui-box-distribuidores{
+		padding: 60px 0 60px 0;
+	}
+
+	/************************************
+     *      seccion08 - contactenos     *
+	 ************************************/
+	.ui-box-contactenos .ui-izquierda {
+	    display: none;
+	}
+	.ui-box-contactenos .ui-derecha {
+	    width: 100%;
+	    display: block;
+	    min-height: auto;
+	    position: relative;
+	    padding: 60px 0 60px 0px;
+	}
+
+	.ui-h2-faqs.contactenos{
+		font-size: 33px;
+	}
+
+	.ui-box-contactenos .ui-derecha:before {
+	    display: none;
+	}
+
+	.ui-box-contactenos .ui-derecha > .ui-box {
+	    max-width: 100%;
+	}
+
+	.ui-box-input-contactenos .ui-input {
+	    width: 47.99%;
+	    margin: 1%;
+	}
+
+	/*************************************
+	 *        seccion09 - footer         *
+	 *************************************/
+	.ui-box-footer{
+		padding: 60px 0 60px 0;
+	}
+}
+
+@media (max-width: 1024px){
+	.ui-box-parallax{
+		min-height: 768px;
+	}
+
+	.cloud {
+	    display: inline-block;
+	    max-width: 725px;
+	}
+}
+
+@media (max-width: 992px){
+	/************************
+	 *         home         *
+	 ************************/
+	.ui-box-image-parallax{
+		display: none;
+	}
+
+	.ui-box-nav-logotipo-frase{
+		position: relative;
+	}
+
+	.ui-box-nav-logotipo{
+		position: absolute;
+		width: 100%;
+		height: 100vh;
+		top:0;
+		left:0;
+		display: flex;
+		display: -webkit-flex;
+		justify-content:center;
+		align-items:center;
+	}
+
+	.ui-mascota-f5-responsive{
+		display: block;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	.ui-mascota-f5-responsive > figure{
+		display: inline-block;
+		vertical-align: top;
+		max-width: 300px;
+	}
+
+	.ui-mascota-f5-responsive > figure img{
+		display: block;
+		width: 100%;
+	}
+
+	.ui-box-logotipo{
+		margin-bottom: 0px;
+		line-height: 25px;
+	}
+
+	.ui-h2-parallax{
+		font-size: 20px;
+		line-height: 22px;
+	}
+}
+
+@media (max-width: 960px){
+	/************************************
+     *    seccion07 - distribuidores    *
+	 ************************************/
+	.ui-box-distribuidores .ui-izquierda,
+	.ui-box-distribuidores .ui-derecha {
+	    float: left;
+	    width: 49.99%;
+	}
+
+	.ui-item-footer {
+	    width: 100%;
+	    float: left;
+	    margin-bottom: 30px;
+	}
+
+	.ui-item-footer .ui-box {
+	    max-width: 100%;
+	    display: block;
+	}
+
+	.ui-gotipo-footer-01 {
+	    display: block;
+	    max-width: 195px;
+	}
+
+	.ui-interes-footer-uno {
+	    margin-bottom: 19px;
+	    max-width: 100%;
+	}
+}
+
+@media (max-width: 785px){
+	/***********************************************
+     *     seccion05 - nuestras presentaciones     *
+	 ***********************************************/
+	.ui-item-box-presentacion.uno,
+	.ui-item-box-presentacion.dos,
+	.ui-item-box-presentacion.tres,
+	.ui-item-box-presentacion.cuatro {
+	    width: 49.99%;
+	}
+
+	.ui-item-box-presentacion.uno,
+	.ui-item-box-presentacion.dos{
+		margin-bottom: 40px;
+	}
+}
+
+@media (max-width: 750px){
+	/****************************
+     *     seccion06 - faqs     *
+	 ****************************/
+	.ui-box-preguntas .ui-derecha {
+	    float: none;
+	    display: none;
+	    width: 100%;
+	}
+
+	.ac-pane.responsive-block{
+		display: block;
+	}
+
+	.ui-box-preguntas .ui-izquierda {
+	    float: none;
+	    display: block;
+	    width: 100%;
+	    margin-bottom: 57px;
+	}
+
+	.ui-box-preguntas .ui-derecha > .accordion-wrapper{
+		max-width: 100%;
+		width: 100%;
+	}
+
+	.ui-box-preguntas .ui-izquierda > .accordion-wrapper{
+		max-width: 100%;
+		width: 100%;
+	}
+
+
+	/***************************************
+     *        seccion08 - contactenos      *
+	 ***************************************/
+	.ui-box-check-01 span {
+	    margin-right: 0px;
+	    display: block;
+	}
+
+	.ui-box-check-01 span:first-child{
+		margin-bottom: 30px;
+	}
+
+	/***************************************
+     *        seccion09 - footer         *
+	 ***************************************/
+	.ui-fila-footer-01{
+		margin-bottom: 0px;
+	}
+}
+
+/* responsive modales vectores - ultimo */
+@media (max-width: 685px){
+	.ui-box-tab-modal > .ui-izquierda{
+		float: none;
+		text-align: center;
+		padding-top: 0px;
+	}
+
+	.ui-box-tab-modal > .ui-derecha{
+		float: none;
+	}
+
+	.ui-box-accion-modal{
+		width: 100%;
+	}
+
+	.ui-btn-tab-accion-ciclos{
+		left: 0px;
+	}
+
+	.ui-modal.modal-pulga02 > .ui-box{
+		width: 100%;
+	}
+
+	.tab.modalPulgas01 button{
+		display: block;
+	}
+
+	.tab.modalGarrapata01 button{
+		display: block;
+	}
+
+	.tab.modalMosquito01 button{
+		display: block;
+	}
+}
+
+@media (max-width: 670px){
+	/***************************************
+     *       seccion07 - distribuidores    *
+	 ***************************************/
+	.ui-box-distribuidores .ui-izquierda,
+	.ui-box-distribuidores .ui-derecha {
+	    float: none;
+	    display: block;
+	    width: 100%;
+	}
+
+	.ui-box-distribuidores .ui-izquierda{
+		margin-bottom: 40px;
+	}
+
+	.ui-box-form-distribuidores {
+	    max-width: 100%;
+	    margin-bottom: 55px;
+	}
+}
+
+@media (max-width: 619px){
+	/**********************
+	 *  boton modal close *
+	 **********************/
+	.ui-close-modal{
+		top:2px;
+		right:2px; 
+		width: 24px;
+		padding: 5px 5px 5px 5px;				
+	}
+
+	.ui-close-modal img{
+		display: block;
+		width: 100%;
+	}
+
+	/**************************
+	 *   proteccion integral  *
+	 **************************/
+	ul.tab-integral > li button{
+		min-height: auto;
+		width: auto;
+		padding: 10px 2px;
+		font-size: 0px;
+	}
+
+	.ui-imagen-item-lesion{
+		max-width: 35px;
+		margin-bottom:-2px;
+		top:0;
+	}
+
+	/***************************
+	 *      presentaciones     *
+	 ***************************/
+	.tab.presentaciones{
+		text-align: center;
+	}
+
+	.tab.presentaciones button{		
+		display: inline-block;
+		vertical-align: top;		
+		margin: 3px 5px;
+	}
+
+	/***************************
+	 *   proteccion integral   *
+	 ***************************/
+	.ui-icon-presentacion-exclusivo{
+		max-width: 111px;
+	}
+
+	.ui-presentacion-dato{
+		padding-left: 0px;
+	}
+
+	.ui-presentacion-dato span{
+		font-size: 16px;
+	}
+
+	.ui-image-presentacion-icon{
+		display: none;
+	}
+
+	/********************
+	 *       Faqs       *
+	 ********************/
+	.ac-pane{
+		margin-bottom: 18px;
+	}
+
+	/*********************
+	 *    contactenos    *
+	 *********************/
+	.ui-box-check-01 span{
+		font-size: 15px;
+	}
+
+	.ui-box-check-01 span{
+		display: inline-block;
+		vertical-align: top;
+	}
+
+	.ui-box-check-01 span:first-child{
+		margin-bottom: 0px;
+	}
+
+	/*************************
+	 *        footer         *
+	 *************************/
+	.ui-item-footer.responsive{
+		width: 47.99%;
+		margin: 1%;
+	}
+
+	.ui-item-footer.logotipos{
+		margin-top: 10px;
+	}
+
+	/*************************
+	 *       creditos        *
+	 *************************/
+	.ui-gotipo-footer-01{		
+		margin: auto;
+	}
+
+	.ui-fila-footer-02{
+		text-align: center;
+	}
+
+	.ui-item-footer.logotipos figure:first-child{
+		margin-bottom: 15px;
+	}
+
+}
+
+@media (max-width: 609px){
+	/************************************
+     *      seccion08 - contactenos     *
+	 ************************************/
+	.ui-box-input-contactenos .ui-input {
+	    width: 49.99%;
+	    margin: 2% 0%;
+	}	
+
+	.ui-info-contacto-footer{
+		width: 49.99%;
+		float: left;
+	}
+
+	.ui-interes-footer-uno{
+		width: 49.99%;
+		float: left;
+	}
+
+	/************************************
+	 *       seccion fipronex g5        *
+	 ************************************/
+	.ui-box-acordeon-responsive-beneficios{
+		display: block;
+	}
+
+	.ui-box-items-beneficios{
+		display: none;
+		background-color: red;
+	}
+
+	.ui-box-01-fipronex-g5{
+		display: none;
+	}
+
+	.ui-drop-spray{
+		display: none;
+	}
+
+	.ui-acordeon-drop-spray-responsive{
+		display: block;
+	}
+
+	.ui-box-panectocida-responsive{
+		display: block;
+		margin-top: 10px;
+	}
+
+	.ui-box-image-proteccion-perro{
+		max-width: 200px;
+	}
+
+	.ui-box-02-molecula-cero .ui-derecha{
+		display: none;
+	}
+	
+}
+
+@media (max-width: 583px){
+	/*************************************
+		 *     tab-interno-modal     *
+	 *************************************/
+	ul.tabs-pulga li{
+		display: block;
+	}
+
+	ul.tabs-garrapata li{
+		display: block;
+	}
+
+	ul.tabs-mosquito li{
+		display: block;
+	}
+	
+}
+
+@media (max-width: 500px){
+	/***********************************************
+     *     seccion05 - nuestras presentaciones     *
+	 ***********************************************/
+	.ui-item-box-presentacion > div{
+		    min-height: auto;
+	}
+
+	.ui-item-box-presentacion.spray > div figure{
+		position: relative;
+	}
+
+	.ui-item-box-presentacion.spray > div{
+		min-height: auto;
+		margin-bottom: 0px;
+	}
+
+	.ui-h2-presentaciones{
+		text-align: center;
+	}
+
+	.ui-box-presentacion-exclusivo{
+		text-align: center;
+	}
+
+	.ui-header-presentaciones .ui-izquierda{
+		margin-bottom: 15px;
+	}
+
+	.ui-caja-presentacion.uno{
+		max-width: 167px;
+	}
+
+	.ui-caja-presentacion.dos{
+		max-width: 222px;
+	}
+
+	.ui-caja-presentacion.cuatro{
+		max-width: 253px;
+	}
+
+	.ui-item-box-presentacion span figure{
+		max-width: 50px;
+	}
+
+	.ui-item-box-presentacion span{
+		padding-left: 52px;
+		font-size: 13px;
+	}
+
+	.ui-caja-presentacion.spray.uno{
+		max-width: 127px;
+	}
+
+	.ui-caja-presentacion.spray.tres{
+		max-width: 230px;
+	}
+
+	.ui-footer-spray{
+		margin-top: 20px;
+		text-align: center;
+	}
+
+	.ui-image-footer-spray{
+		position: relative;
+	}
+
+	.ui-item-box-presentacion.uno,
+	.ui-item-box-presentacion.dos,
+	.ui-item-box-presentacion.tres,
+	.ui-item-box-presentacion.cuatro {
+	    width: 50%;
+	}
+
+	.ui-item-box-presentacion.tres,
+	.ui-item-box-presentacion.cuatro {
+	   margin-bottom: 40px;
+	}
+
+	.ui-header-presentaciones .ui-izquierda{
+		margin-bottom: 30px;
+	}
+
+	.ui-header-presentaciones .ui-derecha,
+	.ui-header-presentaciones .ui-izquierda {
+	    float: none;
+	    display: block;
+	}
+
+	.tab.presentaciones button:first-child{
+		margin-bottom: 10px;
+	}		
+
+	.ui-item-box-presentacion.uno.spray,
+	.ui-item-box-presentacion.dos.spray,
+	.ui-item-box-presentacion.tres.spray {
+	    float: none;
+	    display: block;
+	    width: 100%;
+	}
+
+	.ui-item-box-presentacion.spray > div {
+	    text-align: center;
+	}
+
+	.ui-caja-presentacion.spray{
+		display: inline-block;
+	}
+
+	/***************************
+   *    seccion06 - faqs     *
+	 ***************************/
+	.ui-h2-faqs{
+		text-align: center;
+	}
+
+	.ui-header-distribuidores{
+		text-align: center;
+	}
+}
+
+@media (max-width: 487px){
+	/*************************************
+		 *     tab-interno-modal     *
+	 *************************************/
+	ul.tabs-interno-garrapata li{
+		width: 48.99%;
+		text-align: center;
+	}
+
+	ul.tabs-interno-pulga li{
+		width: 48.99%;
+		text-align: center;
+	}
+}
+
+@media (max-width: 390px){
+	/********************
+	 *     vectores     *
+	 ********************/
+	.ui-box-vector{
+		height: auto;
+		min-height: auto;
+	}
+
+	.ui-h3-vector{
+		display: none;
+	}
+
+}
